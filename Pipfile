@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyterlab = "*"
+ipywidgets = "*"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+plotly = "*"
+torch = "*"
+nltk = "*"
+gensim = "*"
+transformers = "*"
+sklearn = "*"
+
+[requires]
+python_version = "3.8"
